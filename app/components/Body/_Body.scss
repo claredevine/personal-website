@@ -53,6 +53,7 @@
 .github {
   color: #7f7f7f;
   font-size: 2em;
+  padding-right: 10px;
 
   &:hover{
     color: black;
@@ -62,9 +63,29 @@
 .linkedin {
   color: #7f7f7f;
   font-size: 2em;
+  padding-right: 10px;
 
   &:hover{
     color: #0077B5;
+  }
+}
+
+.twitter {
+  color: #7f7f7f;
+  font-size: 2em;
+  padding-right: 10px;
+
+  &:hover{
+    color: #0084b4;
+  }
+}
+
+.wordpress {
+  color: #7f7f7f;
+  font-size: 2em;
+
+  &:hover{
+    color: #21759b;
   }
 }
 
